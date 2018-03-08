@@ -19,8 +19,7 @@ n_node_hl2 = 800
 n_node_hl3 = 800
 
 n_classes = len(genre_list)
-#print (n_classes)
-#sys.exit(1)
+
 batch_size = 50
 
 z = []
