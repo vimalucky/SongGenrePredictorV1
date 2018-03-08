@@ -1,0 +1,6 @@
+
+# Directory where GTZAN Train dataset is present
+TRAIN_DATASET_DIR = "/home/vimalkumar/Documents/fyp/SongGenrePredictorV1/train_dataset"
+
+# Directory where GTZAN Test dataset is present
+TEST_DATASET_DIR = "/home/vimalkumar/Documents/fyp/SongGenrePredictorV1/test_dataset"

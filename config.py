@@ -1,0 +1,14 @@
+
+# Directory where GTZAN Train dataset is present
+TRAIN_DATASET_DIR = "/home/vimalkumar/Documents/fyp/SongGenrePredictorV1/train_dataset"
+
+# Directory where GTZAN Test dataset is present
+TEST_DATASET_DIR = "/home/vimalkumar/Documents/fyp/SongGenrePredictorV1/test_dataset"
+
+# All the available genres
+#GENRE_LIST = [ "blues","classical","country","disco","hiphop","jazz","metal","pop","reggae","rock"]
+
+# Working with these genres
+GENRE_LIST = ["blues","jazz","metal","pop","rock", "classical"]
+#GENRE_LIST = [ "blues","classical","country","disco","hiphop","jazz","metal","pop","reggae","rock"]
+#GENRE_LIST = [ "blues","classical","country","disco","jazz","metal","pop","reggae","rock"]
